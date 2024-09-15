@@ -1,0 +1,19 @@
+-----⬥ A: Mây	⬥ D: Gió
+-----⬥ B: Sao quả tạ		⬥ C: Sao quả tấn 
+-----⬥ A: Vàng			⬥ C: Đen
+-----⬥ B: Thân cô thế cô			⬥ D: Thân làm tội đời
+-----⬥ A: Tò he		⬥ B: Tò mò
+-----⬥ B: Đá Nhảy	⬥ C: Đá Chạy	
+-----⬥ C: Thằn lằn	⬥ D: Cóc
+-----⬥ C: A1		⬥ D: E1
+-----⬥ B: Tiểu thuyết kiếm hiệp	⬥ D: Thơ lãng mạn
+-----⬥ A: Người mẹ cầm súng			⬥ C: Tắt đèn
+-----⬥ A: Voi	⬥ B: Bống	
+-----⬥ B: Vịt đực	⬥ C: Ngan xiêm	
+-----⬥ C: Bến Tre	⬥ D: Đồng Tháp
+-----⬥ C: Gừng	⬥ D: Nghệ
+-----⬥ B: Lâm tặc	⬥ D: Hải tặc
+-----⬥ B: Việt Nam	⬥ C: Lào	
+-----⬥ B: Vườn quốc gia Tam Đảo	⬥ D: Vườn quốc gia Bái Tử Long
+-----⬥ C: Quốc An	⬥ D: Trần Tiến
+-----⬥ A: Đôi bạn		⬥ D: Em gái tôi
